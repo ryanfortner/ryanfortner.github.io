@@ -5,5 +5,5 @@
 # - name: Framework
 #   weight: 5
 
-- name: Github Pages
-  weight: 3
+- name: Linux
+  weight: 5
