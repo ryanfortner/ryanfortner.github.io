@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "Hi there! I'm Ryan, an open-sourcerer, Linux programmer, avid distro hopper, and tinkerer of ARM Linux computers from Raleigh, North Carolina."
+about_me_description: "Hi there! I'm Ryan, an open-sourcerer, Linux programmer, avid distro hopper, and tinkerer of ARM Linux computers from Raleigh, North Carolina. Check out a few of my projects below!"
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
