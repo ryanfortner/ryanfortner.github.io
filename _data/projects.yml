@@ -14,8 +14,7 @@
 #     - tag: Node
 
 - name: Raspbian Addons
-  descr: "Legendary APT repository for Raspberry Pies containing free and open source ARM-compatible software."
-  demo: https://raspbian-addons.org
+  descr: "https://raspbian-addons.org Legendary APT repository for Raspberry Pies containing free and open source ARM-compatible software."
   tags:
     - tag: Raspberry Pi
     - tag: APT
@@ -23,7 +22,7 @@
     - tag: FOSS
 
 - name: deb-builder
-  descr: "Super simple script to create a deb file"
+  descr: "Super simple script to create a deb file."
   tags:
     - tag: bash
     - tag: APT
