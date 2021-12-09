@@ -5,16 +5,14 @@
 # - name: Language
 #   weight: 5
 
-- name: Scratch
-  weight: 3
-- name: Pocket Code
+- name: Python
   weight: 3
   
-- name: Python
-  weight: 5
+- name: Shell
+  weight: 4
 
-- name: HTML5 (a bit)
+- name: C
   weight: 2
 
 - name: English
-  weight: 3
+  weight: 5
