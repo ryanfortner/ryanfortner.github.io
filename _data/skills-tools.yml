@@ -6,13 +6,13 @@
 #   weight: 5
 
 - name: Git
-  weight: 2
+  weight: 5
 
 - name: Bash
-  weight: 3
+  weight: 4
 
-- name: Pip
+- name: Apt
   weight: 4
   
-- name: Command line
+- name: Pip
   weight: 6
