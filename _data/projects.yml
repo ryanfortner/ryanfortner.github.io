@@ -13,23 +13,20 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Website for ManaKaiRV
-  descr: "Loren Ipsum descrition coming soon"
-  demo: https://kotsom.github.io
+- name: Raspbian Addons
+  descr: "Legendary APT repository for Raspberry Pies containing free and open source ARM-compatible software."
+  demo: https://raspbian-addons.org
   tags:
-    - tag: HTML
-    - tag: Jekyll
-    - tag: YAML
-    - tag: Github Pages
+    - tag: Raspberry Pi
+    - tag: APT
+    - tag: Raspbian
+    - tag: FOSS
 
-- name: This page
-  descr: "My own website"
-  demo: /hackerplace
+- name: deb-builder
+  descr: "Super simple script to create a deb file"
   tags:
-    - tag: Jekyll
-    - tag: HTML
-    - tag: Github Pages
-    - tag: YAML
-    - tag: website
+    - tag: bash
+    - tag: APT
+    - tag: script
 
 
