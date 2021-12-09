@@ -14,7 +14,7 @@ baseurl: "/"
 username: ryanfortner
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: ARM Linux programmer learning C and bash.
+typing_text: Linux programmer and open-sourcerer
 # email: Your E-Mail address for the email button.
 email: ryankfortner@gmail.com
 # For every social button you want to display, set your username or userid
