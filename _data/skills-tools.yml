@@ -1,0 +1,18 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Git
+  weight: 2
+
+- name: Bash
+  weight: 3
+
+- name: Pip
+  weight: 4
+  
+- name: Command line
+  weight: 6
