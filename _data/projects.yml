@@ -30,4 +30,11 @@
     - tag: APT
     - tag: script
 
-
+- name: pi-apps
+  descr: "I am a frequent contributor/maintainer of Pi-Apps, the Raspberry Pi app store for open-source projects."
+  demo: https://github.com/Botspot/pi-apps
+  tags:
+    - tag: bash
+    - tag: Raspberry Pi
+    - tag: yad
+    - tag: App Store
