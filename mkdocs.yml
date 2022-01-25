@@ -121,5 +121,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about-me.md
-  - GitHub Stats: github-stats.md
   - Blog: blog/
+  - Projects:
+    - projects/index.md
+    - Raspbian Addons: 'https://raspbian-addons.org/'
+  - GitHub Stats: github-stats.md
