@@ -121,5 +121,5 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - About:
-    - About Me: about-me.md
+  - About: about-me.md
+  - Blog: blog/index.md
