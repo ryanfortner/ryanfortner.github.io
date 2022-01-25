@@ -2,7 +2,7 @@ site_name: Ryan Fortner
 site_url: https://ryanfortner.github.io
 site_author: Ryan Fortner
 site_description: >-
-  My personal site.
+  Linux programmer interested in ARM computers, C and shell script
 
 # Repository
 repo_name: ryanfortner/ryanfortner.github.io
@@ -61,7 +61,7 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: logo
+    logo: assets/favicon.png
 
 # Plugins
 plugins:
