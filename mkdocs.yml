@@ -121,4 +121,5 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about-me.md
+  - GitHub Stats: github-stats.md
   - Blog: blog/
