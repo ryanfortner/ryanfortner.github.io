@@ -122,4 +122,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about-me.md
-  - Blog: blog/index.md
+  - Blog: blog/
