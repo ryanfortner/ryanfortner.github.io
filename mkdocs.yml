@@ -135,5 +135,6 @@ nav:
   - Projects:
     - projects/index.md
     - Raspbian Addons: 'https://raspbian-addons.org/'
+    - Pi Apps: 'https://pi-apps.io/'
   - GitHub Stats: github-stats.md
-  - Invuedious: 'https://ryanfortner.github.io/invuedious'
+  - Invuedious: 'https://ryanfortner.github.io/invuedious/'
