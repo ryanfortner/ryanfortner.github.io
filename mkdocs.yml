@@ -121,7 +121,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about-me.md
-  - Blog: blog/
+  - Blog:
+    - blog/index.md
+    - Pi News Nov 1 2021: blog/2021/pi-news-nov-1-2021.md
   - Projects:
     - projects/index.md
     - Raspbian Addons: 'https://raspbian-addons.org/'
