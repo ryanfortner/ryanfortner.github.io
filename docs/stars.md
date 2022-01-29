@@ -1327,6 +1327,7 @@
 
 ## Shell 
 
+- [PuffOS/teaiso-profile](https://github.com/PuffOS/teaiso-profile) - powered by teaiso
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, UPnP and Spotify Connect
