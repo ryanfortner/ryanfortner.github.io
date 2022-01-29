@@ -390,6 +390,7 @@
 
 ## CSS 
 
+- [catppuccin/gtk](https://github.com/catppuccin/gtk) - GTK theme for catppuccin. Warm dark theme for the masses!
 - [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 - [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
@@ -494,6 +495,7 @@
 
 ## Go 
 
+- [pluveto/upgit](https://github.com/pluveto/upgit) - Another Typora image uploader
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [lensrentals/trackr](https://github.com/lensrentals/trackr) - Pull FedEx/UPS/USPS tracking numbers out of unstructured text
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
@@ -647,6 +649,7 @@
 
 ## JavaScript 
 
+- [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [nschloe/xhub](https://github.com/nschloe/xhub) - :memo: GitHub with LaTeX math, diagrams, etc.
@@ -877,6 +880,7 @@
 
 ## Others 
 
+- [geeekpi/cm4routerboard](https://github.com/geeekpi/cm4routerboard) - Raspberry Pi Computer Module 4 internet extand board firmware and config files
 - [l3oatkunGG/DUCO-dashboard-widget-for-iOS](https://github.com/l3oatkunGG/DUCO-dashboard-widget-for-iOS) - A duino-coin dashboard for iOS using scriptable app
 - [ryanfortner/box86-debs-action](https://github.com/ryanfortner/box86-debs-action) - 
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -1007,6 +1011,7 @@
 
 ## PHP 
 
+- [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [clooney/usps](https://github.com/clooney/usps) - USPS tracking API and webhook make it easy to integrate USPS Tracking function into your own project. Support APIs Client Libraries for php.
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [uup-dump/api](https://github.com/uup-dump/api) - UUP dump API code
@@ -1322,6 +1327,7 @@
 
 ## Shell 
 
+- [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
 - [nicokaiser/rpi-audio-receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Raspberry Pi Audio Receiver with Bluetooth A2DP, AirPlay, UPnP and Spotify Connect
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
