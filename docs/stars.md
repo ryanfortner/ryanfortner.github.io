@@ -567,7 +567,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [tanaikech/goodls](https://github.com/tanaikech/goodls) - This is a CLI tool to download shared files and folders from Google Drive.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -829,6 +829,7 @@
 
 ## Lua 
 
+- [ChrisTitusTech/titus-awesome](https://github.com/ChrisTitusTech/titus-awesome) - Custom AwesomeWM Theme
 - [2439905184/oh-my-giraffe](https://github.com/2439905184/oh-my-giraffe) - a game made with love2d ,here is the code ,if you want to learn program
 - [ryanfortner/conky-configuration](https://github.com/ryanfortner/conky-configuration) - Conky configuration with graphs and more.
 - [frequential/conky-configuration](https://github.com/frequential/conky-configuration) - My personal approach to configure "conky", a tool for creating widgets that display information for Linux desktops.
@@ -1592,6 +1593,7 @@
 
 ## Swift 
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [fahimrahmanbooom/Duino-Coin_iOS_App](https://github.com/fahimrahmanbooom/Duino-Coin_iOS_App) - Duino-Coin iOS App. Features: Dashboard, Statistics, Transactions, Profile.
 - [ming900518/macOS-Virtual-Machine](https://github.com/ming900518/macOS-Virtual-Machine) - A ARM macOS Virtual Machine.
 - [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!
