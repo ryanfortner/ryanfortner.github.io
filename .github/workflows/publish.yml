@@ -28,9 +28,7 @@ jobs:
         run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add .
-          git commit -m "Update awesome-stars list"
-          git push origin master
+          bash -c "git add . && git commit -m "update stars.md" && git push origin master" || true
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
