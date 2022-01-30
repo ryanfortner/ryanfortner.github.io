@@ -21,6 +21,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
+  - [Elixir](#elixir)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [FreeBasic](#freebasic)
@@ -480,6 +481,10 @@
 ## EJS 
 
 - [techcoder20/themesaver-website](https://github.com/techcoder20/themesaver-website) - The Official Website for the themesaver app
+
+## Elixir 
+
+- [dwyl/hits](https://github.com/dwyl/hits) - :chart_with_upwards_trend: General purpose hits (page views) counter
 
 ## Elm 
 
