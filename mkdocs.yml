@@ -133,9 +133,9 @@ nav:
       - Pi-Apps RPi App Store: blog/2021/2021-11-02.md
       - Pi News Nov 1 2021: blog/2021/2021-11-01.md
   - Projects:
-    - projects/index.md
-    - Raspbian Addons: 'https://raspbian-addons.org/'
-    - Pi Apps: 'https://pi-apps.io/'
+    - projects.md
+    - Raspbian Addons: projects/raspbian-addons.md
+    - Pi Apps CLI: projects/pi-apps-cli.md
   - GitHub Stats: github-stats.md
   - Stars: stars.md
   - Links: links.md
