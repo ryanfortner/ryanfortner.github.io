@@ -81,6 +81,7 @@
 
 ## C 
 
+- [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [PacktPublishing/Learn-C-Programming](https://github.com/PacktPublishing/Learn-C-Programming) - Learn C Programming, published by Packt
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
