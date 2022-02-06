@@ -4,7 +4,9 @@ template: overrides/main.html
 
 # GitHub Stats
 
-![github-metrics](https://raw.githubusercontent.com/ryanfortner/ryanfortner/main/github-metrics.svg)
+![general-metrics](https://raw.githubusercontent.com/ryanfortner/ryanfortner/main/general.svg)
+
+![achievements-metrics](https://raw.githubusercontent.com/ryanfortner/ryanfortner/main/achievements.svg)
 
 [![My GitHub Stats](https://github.com/ryanfortner/github-stats/raw/master/generated/overview.svg)]() [![My GitHub Language Stats](https://github.com/ryanfortner/github-stats/raw/master/generated/languages.svg)]()
 
