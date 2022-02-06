@@ -81,6 +81,7 @@
 
 ## C 
 
+- [PacktPublishing/Learn-C-Programming](https://github.com/PacktPublishing/Learn-C-Programming) - Learn C Programming, published by Packt
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [berlin-open-wireless-lab/DAWN](https://github.com/berlin-open-wireless-lab/DAWN) - Decentralized WiFi Controller
@@ -243,6 +244,8 @@
 
 ## C# # 
 
+- [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Custom Discord Rich Presence Manager for Windows, features run on startup and minimizing to tray.
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [OpenHogwarts/hogwarts](https://github.com/OpenHogwarts/hogwarts) - Hogwarts (Harry Potter) open sandbox game made in Unity
 - [Impostor/Impostor](https://github.com/Impostor/Impostor) - Impostor - An open source reimplementation of the Among Us Server
@@ -258,6 +261,7 @@
 
 ## C++ 
 
+- [soui3/soui](https://github.com/soui3/soui) - the simplest direct ui engine!
 - [netblue30/firetools](https://github.com/netblue30/firetools) - Firejail GUI
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [Swordfish90/qmltermwidget](https://github.com/Swordfish90/qmltermwidget) - QML port of qtermwidget
@@ -387,10 +391,12 @@
 
 ## CMake 
 
+- [ryanfortner/c-alculator](https://github.com/ryanfortner/c-alculator) - c-calculator: a simple calculator written in c
 - [stuntrally/tracks](https://github.com/stuntrally/tracks) - Tracks of Stunt Rally. Meant to be inside data/tracks/.
 
 ## CSS 
 
+- [B-Software/Ward](https://github.com/B-Software/Ward) - Server dashboard
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - GTK theme for catppuccin. Warm dark theme for the masses!
 - [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
 - [andreasgrafen/cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
@@ -500,6 +506,8 @@
 
 ## Go 
 
+- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [pluveto/upgit](https://github.com/pluveto/upgit) - Another Typora image uploader
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [lensrentals/trackr](https://github.com/lensrentals/trackr) - Pull FedEx/UPS/USPS tracking numbers out of unstructured text
@@ -581,6 +589,7 @@
 ## HTML 
 
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
+- [ryanfortner/ryanfortner.github.io](https://github.com/ryanfortner/ryanfortner.github.io) - My website and portfolio.
 - [fosshostorg/public-docs](https://github.com/fosshostorg/public-docs) - The repository for the new Fosshost documentation.
 - [cs91chris/caddy-browse-template](https://github.com/cs91chris/caddy-browse-template) - Template file server for caddy web server
 - [pablouser1/TikTok-API-PHP](https://github.com/pablouser1/TikTok-API-PHP) - Unofficial TikTok API for PHP. Join our Discord server
@@ -618,6 +627,8 @@
 
 ## Java 
 
+- [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
+- [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
 - [spocon/lovspotify](https://github.com/spocon/lovspotify) - Spotify GUI + Spotify Client for Raspberry PI , Ubuntu and Debian
@@ -654,6 +665,10 @@
 
 ## JavaScript 
 
+- [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
+- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves.
+- [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
+- [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
 - [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
@@ -803,6 +818,7 @@
 
 ## Jinja 
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
@@ -886,6 +902,8 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [geeekpi/cm4routerboard](https://github.com/geeekpi/cm4routerboard) - Raspberry Pi Computer Module 4 internet extand board firmware and config files
 - [l3oatkunGG/DUCO-dashboard-widget-for-iOS](https://github.com/l3oatkunGG/DUCO-dashboard-widget-for-iOS) - A duino-coin dashboard for iOS using scriptable app
 - [ryanfortner/box86-debs-action](https://github.com/ryanfortner/box86-debs-action) - 
@@ -911,7 +929,7 @@
 - [apple/swift-community-hosted-continuous-integration](https://github.com/apple/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf
 - [hmsjy2017/debs](https://github.com/hmsjy2017/debs) - 
-- [ryanfortner/box64-debs](https://github.com/ryanfortner/box64-debs) - box64 apt repository
+- [ryanfortner/box64-debs](https://github.com/ryanfortner/box64-debs) - box64 debian/apt repository
 - [raspbian-addons/status](https://github.com/raspbian-addons/status) - raspbian-addons uptime monitoring
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [Wallux-0/Wallpapers](https://github.com/Wallux-0/Wallpapers) - Wallpapers for Wallux
@@ -935,6 +953,7 @@
 - [ryanfortner/mirrors](https://github.com/ryanfortner/mirrors) - The AlmaLinux project mirrors configuration and tools.
 - [ryanfortner/rpios-buster](https://github.com/ryanfortner/rpios-buster) - older stable images of rpi os
 - [ryanfortner/exagear-rpi](https://github.com/ryanfortner/exagear-rpi) - installing Exagear Desktop on the newer Raspberry Pies
+- [ryanfortner/ryanfortner](https://github.com/ryanfortner/ryanfortner) - 
 - [ryanfortner/pi-apps-website](https://github.com/ryanfortner/pi-apps-website) - pi-apps website experiment
 - [ryanfortner/build-deb](https://github.com/ryanfortner/build-deb) - GNU/Linux Debian package builder.
 - [ryanfortner/calculator-programs](https://github.com/ryanfortner/calculator-programs) - Various programs for Texas Instruments calculators
@@ -1059,6 +1078,9 @@
 
 ## Python 
 
+- [splitbrain/pimenu](https://github.com/splitbrain/pimenu) - Simple fullscreen menu system for Raspberry Pi Touchscreen
+- [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [LiterallyLarry/USPS-Tracking-Python](https://github.com/LiterallyLarry/USPS-Tracking-Python) - Command line utility to track your packages using the USPS Track Request API.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [RedHeadphone/sudoku-solver](https://github.com/RedHeadphone/sudoku-solver) - Solves a sudoku using back tracking algorithm
@@ -1066,7 +1088,6 @@
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [crypto101/book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
-- [ryanfortner/ryanfortner.github.io](https://github.com/ryanfortner/ryanfortner.github.io) - My website and portfolio.
 - [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [natesales/aarch64-client-python](https://github.com/natesales/aarch64-client-python) - Python API client for aarch64.com
@@ -1150,7 +1171,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-422-Stars](https://github.com/iBug/This-Repo-Has-422-Stars) - Yes, it's true :orange_heart: This repository has 422 stars.
+- [iBug/This-Repo-Has-425-Stars](https://github.com/iBug/This-Repo-Has-425-Stars) - Yes, it's true :orange_heart: This repository has 425 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1323,6 +1344,7 @@
 
 ## SCSS 
 
+- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [cycool29/hacker-theme-linux](https://github.com/cycool29/hacker-theme-linux) - 
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - Ubuntu community theme "yaru". Better than a 🌯.
@@ -1333,6 +1355,9 @@
 
 ## Shell 
 
+- [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops
+- [freight-team/freight](https://github.com/freight-team/freight) - A modern take on the Debian archive.
+- [OctoPrint/CustoPiZer](https://github.com/OctoPrint/CustoPiZer) - A customization tool for Raspberry Pi OS images like OctoPi
 - [PuffOS/teaiso-profile](https://github.com/PuffOS/teaiso-profile) - powered by teaiso
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [varlesh/volantes-cursors](https://github.com/varlesh/volantes-cursors) - Cursor Theme
@@ -1349,7 +1374,7 @@
 - [sabotage-linux/sabotage](https://github.com/sabotage-linux/sabotage) - a radical and experimental distribution based on musl libc and busybox
 - [ryanfortner/pacman](https://github.com/ryanfortner/pacman) - Yet another pacman clone in C/C++ and SDL.
 - [ryanfortner/debianization-files](https://github.com/ryanfortner/debianization-files) - Scripts and files for packaging debian software using dh-make.
-- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Manjaro/EndeavourOS+this=Arch
+- [kskeigrshi/to-arch.sh](https://github.com/kskeigrshi/to-arch.sh) - Mirror of https://sr.ht/~kskeigrshi/to-arch.sh/
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
@@ -1382,7 +1407,7 @@
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [algernon/dh-exec](https://github.com/algernon/dh-exec) - Debhelper executable file substition helpers
-- [aditya24raj/darth_waydr](https://github.com/aditya24raj/darth_waydr) - installs waydroid on focal, bullseye and hirsute
+- [aditya24raj/darth_waydr](https://github.com/aditya24raj/darth_waydr) - attempts waydroid installation on debian-based distributions
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [jenkinsci/packaging](https://github.com/jenkinsci/packaging) - Native packaging for Jenkins
 - [koendv/arduino-ide-raspberrypi](https://github.com/koendv/arduino-ide-raspberrypi) - arduino IDE v2 for raspberry pi
@@ -1395,7 +1420,7 @@
 - [rpardini/armbian-release](https://github.com/rpardini/armbian-release) - to package and release armbian-build
 - [Jai-JAP/TwisteRPi-Imager](https://github.com/Jai-JAP/TwisteRPi-Imager) - RPi-Imager with Twister OS inside alongside all other OSes in RPi-Imager
 - [m4xx101/kali_parrot_terminal](https://github.com/m4xx101/kali_parrot_terminal) - Parrot OS Terminal For Kali linux
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
 - [kou1okada/apt-cyg](https://github.com/kou1okada/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [phoenixbyrd/pibright-notification](https://github.com/phoenixbyrd/pibright-notification) - Notification Icon for pibright on Twister OS
 - [P3TERX/Aria2-Pro-Core](https://github.com/P3TERX/Aria2-Pro-Core) - Aria2 static binaries for GNU/Linux with some powerful feature patches. |  破解无限线程 防掉线程优化 静态编译 二进制文件 增强版
@@ -1407,7 +1432,6 @@
 - [Mangeshrex/rxfetch](https://github.com/Mangeshrex/rxfetch) - A custom system info fetching tool
 - [Botspot/rpi-flashplayer](https://github.com/Botspot/rpi-flashplayer) - Restore Adobe Flash Player so it can run on Raspberry Pi again
 - [ryanfortner/pi-ware](https://github.com/ryanfortner/pi-ware) - 
-- [ryanfortner/ryanfortner](https://github.com/ryanfortner/ryanfortner) - 
 - [ryanfortner/au-sh](https://github.com/ryanfortner/au-sh) - autoupdate script
 - [ryanfortner/pi-apps](https://github.com/ryanfortner/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
@@ -1586,6 +1610,7 @@
 
 ## Svelte 
 
+- [snipline/rsyncinator-desktop](https://github.com/snipline/rsyncinator-desktop) - 
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
 - [fosshostorg/fosshost.org](https://github.com/fosshostorg/fosshost.org) - All the code for Fosshost's new website.
@@ -1607,6 +1632,9 @@
 
 ## TypeScript 
 
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+- [Katsute/GitHub-Red-Issues](https://github.com/Katsute/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
+- [brhigginsuk/discord-activity-monitor](https://github.com/brhigginsuk/discord-activity-monitor) - Discord bot to add/remove roles based on user activity
 - [lowlighter/denolithic](https://github.com/lowlighter/denolithic) - 🦕 Transform any markdown file into presentation slides with extended markup and runnable code snippets
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
@@ -1620,7 +1648,6 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [augustinbegue/icue-ambilight](https://github.com/augustinbegue/icue-ambilight) - Ambilight for Corsair devices: Synchronise the colors of your iCue compatible devices with the content displayed on your screen.
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
-- [Icalingua/Icalingua](https://github.com/Icalingua/Icalingua) - A Linux client for QQ and more :electron:
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [fosshostorg/aarch64.com](https://github.com/fosshostorg/aarch64.com) - We are a fosshost project which is delivering ARM-based hardware into multiple, global data centers.  We document and keep a diary of our project daily.
 - [ghostery/adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library
