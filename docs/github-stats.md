@@ -12,4 +12,4 @@ template: overrides/main.html
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ryanfortner/ryanfortner/snake-output/github-contribution-grid-snake.svg)
 
-Generated using [lowlighter/metrics](https://github.com/lowlighter/metrics), [snk](https://github.com/Platane/snk), and [jstrieb/github-stats](https://github.com/jstrieb/github-stats)a via GitHub Actions
+Generated using [lowlighter/metrics](https://github.com/lowlighter/metrics), [platane/snk](https://github.com/Platane/snk), and [jstrieb/github-stats](https://github.com/jstrieb/github-stats)a via GitHub Actions
