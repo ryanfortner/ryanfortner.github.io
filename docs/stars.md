@@ -262,6 +262,7 @@
 
 ## C++ 
 
+- [SamVanheer/halflife-updated](https://github.com/SamVanheer/halflife-updated) - Half-Life SDK updated to compile under VS2019.
 - [soui3/soui](https://github.com/soui3/soui) - the simplest direct ui engine!
 - [netblue30/firetools](https://github.com/netblue30/firetools) - Firejail GUI
 - [Jyers/Marlin](https://github.com/Jyers/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
@@ -1080,6 +1081,8 @@
 
 ## Python 
 
+- [Jahaja/psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
+- [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
 - [splitbrain/pimenu](https://github.com/splitbrain/pimenu) - Simple fullscreen menu system for Raspberry Pi Touchscreen
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
@@ -1358,6 +1361,7 @@
 
 ## Shell 
 
+- [pyavitz/debian-image-builder](https://github.com/pyavitz/debian-image-builder) - Debian image builder for single board computers
 - [qw3rtman/p](https://github.com/qw3rtman/p) - :snake: Python Version Management Made Simple
 - [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops
 - [freight-team/freight](https://github.com/freight-team/freight) - A modern take on the Debian archive.
