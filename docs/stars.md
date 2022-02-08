@@ -322,7 +322,7 @@
 - [k-vernooy/tetris](https://github.com/k-vernooy/tetris) - My rendition of the classic tetris for terminal.
 - [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 - [MirServer/mir](https://github.com/MirServer/mir) - The Mir compositor
-- [jpd002/Play-](https://github.com/jpd002/Play-) - Play! - PlayStation 2 Emulator
+- [jpd002/Play-](https://github.com/jpd002/Play-) - Play! - PlayStation2 Emulator
 - [pi-top/web-renderer](https://github.com/pi-top/web-renderer) - Qt-based minimal web rendering application
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
@@ -1081,6 +1081,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [Jahaja/psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
@@ -1177,7 +1178,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-425-Stars](https://github.com/iBug/This-Repo-Has-425-Stars) - Yes, it's true :orange_heart: This repository has 425 stars.
+- [iBug/This-Repo-Has-426-Stars](https://github.com/iBug/This-Repo-Has-426-Stars) - Yes, it's true :sparkling_heart: This repository has 426 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1507,7 +1508,7 @@
 - [MCPI-Revival/mcpi-packages](https://github.com/MCPI-Revival/mcpi-packages) - An APT repo for MCPI-Revival projects
 - [gl91306/lunar](https://github.com/gl91306/lunar) - 
 - [andresgongora/synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
-- [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le)
+- [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le) via QEMU
 - [P3TERX/ActionsVM](https://github.com/P3TERX/ActionsVM) - Connect to GitHub Actions via SSH, get macOS or Linux VM for free.
 - [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
@@ -1521,7 +1522,7 @@
 - [piware14/pi-ware](https://github.com/piware14/pi-ware) - Pi-Ware is an app store inspired by Botspots pi-apps for the Raspberry Pi that allows you to install apps that you generally can't get from the official repos and/or without an extra amount of work.
 - [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
 - [ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi](https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi) - A £10 Rubber Ducky USB HID! A USB device which emulates a keyboard and automates key entry.
-- [r0hi7/tortipi](https://github.com/r0hi7/tortipi) - Tor based Raspberry π hotspot
+- [rosehgal/tortipi](https://github.com/rosehgal/tortipi) - Tor based Raspberry π hotspot
 - [arpitjindal97/raspbian-recipes](https://github.com/arpitjindal97/raspbian-recipes) - Raspberry networking made easy
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [phoenixbyrd/youtube2mp3](https://github.com/phoenixbyrd/youtube2mp3) - Youtube to MP3 Converter
