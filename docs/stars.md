@@ -195,7 +195,7 @@
 - [Itai-Nelken/aptpac](https://github.com/Itai-Nelken/aptpac) - A simple wrapper for 'pacman' with a syntax similar to 'apt' to help people transitioning to Arch and Arch based distributions like Manjaro.
 - [lanoxx/tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [CleanMachine1/C-Code](https://github.com/CleanMachine1/C-Code) - 
 - [nodogsplash/nodogsplash](https://github.com/nodogsplash/nodogsplash) - Nodogsplash offers a simple way to provide restricted access to an Internet connection using a captive portal. Pull requests are welcome!
@@ -1040,6 +1040,7 @@
 
 ## PHP 
 
+- [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [clooney/usps](https://github.com/clooney/usps) - USPS tracking API and webhook make it easy to integrate USPS Tracking function into your own project. Support APIs Client Libraries for php.
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
@@ -1082,6 +1083,7 @@
 
 ## Python 
 
+- [vandalsoul/darkmatter-grub2-theme](https://github.com/vandalsoul/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👨‍🔬💙
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [Jahaja/psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
@@ -1179,7 +1181,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-427-Stars](https://github.com/iBug/This-Repo-Has-427-Stars) - Yes, it's true :sparkling_heart: This repository has 427 stars.
+- [iBug/This-Repo-Has-428-Stars](https://github.com/iBug/This-Repo-Has-428-Stars) - Yes, it's true :heartpulse: This repository has 428 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
