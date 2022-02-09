@@ -100,6 +100,131 @@ int main(void) {
     printf("long double size: %lu bytes\n", sizeof(long double));
 }
 ```
+#### Ask Name
+This program will ask for your name and say it back to you.
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main (void)
+{
+  char name[15];
+
+  printf("Enter your name: ");
+  scanf("%s", name);
+  printf("Hello, %s!\n", name);
+
+  return 0;
+}
+```
+#### Write Text to File
+Simple program which writes text to a specific file on the disk.
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+    char text[100];
+    FILE *fptr;
+
+    // use appropriate location if you're using macos, linux, windows, etc
+    fptr = fopen("program.txt", "w");
+
+    if(fptr == NULL) {
+        printf("Error!\n");
+        exit(1);
+    }
+
+    printf("Enter text: ");
+    scanf("%s", &text);
+
+    fprintf(fptr, "%s", text);
+    fclose(fptr);
+
+    return 0;
+}
+```
+#### Read Text from File
+Simple program which reads text from a file on the disk.
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+    char text[100];
+    FILE *fptr;
+
+    if ((fptr = fopen("program.txt", "r")) == NULL) {
+        printf("Error opening file!\n");
+        
+        // Program exits if the file pointer returns null.
+        exit(1);
+    }
+
+    fscanf(fptr, "%s", &text);
+
+    printf("Value of n = %s", text);
+    fclose(fptr);
+
+    return 0;
+}
+```
+#### Simple Calculator
+This is a simple calculator written in C.
+```c
+#include <stdio.h>
+
+int main (int argc, char argv[]) {
+    int arg1, arg2;
+    if (argc == 4)
+    {
+        sscanf (argv[1], "%d", &arg1);
+        sscanf (argv[3], "%d", &arg2);
+        if (*argv[2] == '+') printf ("%d\n", arg1 + arg2);
+        if (*argv[2] == '-') printf ("%d\n", arg1 - arg2);
+        if (*argv[2] == 'x') printf ("%d\n", arg1 * arg2);
+        if (*argv[2] == '/') printf ("%d\n", arg1 / arg2);
+    }
+    return 0;
+}
+```
+#### Convert Temperature
+Converts Celsius to Fahrenheight and vice-versa.
+```c
+#include <stdio.h>
+
+// function prototypes
+double celsiusToFahrenheight(double degreesC);
+double fahrenheightToCelsius(double degreesF);
+
+int main(void) {
+    int c = 0, f = 32;
+    printf("%d Celsius is %d Fahrenheight\n", c, (int)celsiusToFahrenheight(c));
+    printf("%d Fahrenheight is %d Celsius\n\n", f, (int)fahrenheightToCelsius(f));
+
+    c = 100, f = 212;
+    printf("%d Celsius is %d Fahrenheight\n", c, (int)celsiusToFahrenheight(c));
+    printf("%d Fahrenheight is %d Celsius\n\n", f, (int)fahrenheightToCelsius(f));
+
+    c = f = 50;
+    printf("%d Celsius is %d Fahrenheight\n", c, (int)celsiusToFahrenheight(c));
+    printf("%d Fahrenheight is %d Celsius\n\n", f, (int)fahrenheightToCelsius(f));
+
+    return 0;
+}
+
+// convert celsius to fahrenheight
+double celsiusToFahrenheight(double degreesC) {
+    double degreesF = (degreesC * 9 / 5)+ 32;
+    return degreesF;
+}
+
+// convert fahrenheight to celsius
+double fahrenheightToCelsius(double degreesF) {
+    double degreesC = (degreesF - 32) * 5 / 9;
+    return degreesC;
+}
+```
 #### Get Time
 Gets the current time and date.
 ```c
@@ -149,21 +274,52 @@ int main(void)
     return 0;
 }
 ```
-#### Ask Name
-This program will ask for your name and say it back to you.
+#### Leap Year
+This program ask for a year, and will tell you if it's a leap year or not.
 ```c
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdbool.h>
 
-int main (void)
-{
-  char name[15];
+// function prototypes
+bool isLeapYear(int);
 
-  printf("Enter your name: ");
-  scanf("%s", name);
-  printf("Hello, %s!\n", name);
+int main(void) {
+    int year;
 
-  return 0;
+    printf("Determine if a year is a leap year or not.\n\n");
+    printf("Enter year: ");
+    scanf("%d", &year);
+
+    /* A simple way of printing the result.
+    if (isLeapYear(year)) {
+        printf("%d is a leap year.\n");
+    } else {
+        printf("%d is not a leap year.\n", year);
+    }*/
+
+    // A more C-like version of printing the result
+    printf("%d is%sa leap year.\n", year, isLeapYear(year) ? " " : " not ");
+
+    return 0;
+}
+
+bool isLeapYear(int year) {
+    bool isLeap = false;
+
+    // Leap years not part of the Gregorian calendar until after 1752.
+    if(year < 1571) // is it before the years it was known?
+        isLeap = false;
+    else if((year % 4) != 0) // year is not a multiple of 4.
+        isLeap = false;
+    else {
+        if((year % 400) == 0)
+            isLeap = true;
+        else if((year % 100) == 0)
+            isLeap = false;
+        else
+            isLeap = true;
+    }
+    return isLeap;
 }
 ```
 #### Fibonacci Sequence
