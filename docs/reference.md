@@ -85,7 +85,7 @@ int main(void) {
     //
 }
 ```
-### Size of Types
+#### Size of Types
 Prints the size of each type.
 ```c
 #include <stdio.h>
