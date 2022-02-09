@@ -124,23 +124,21 @@ Simple program which writes text to a specific file on the disk.
 #include <stdlib.h>
 
 int main(void) {
-    char text[100];
+    char sentence[1000];
     FILE *fptr;
 
     // use appropriate location if you're using macos, linux, windows, etc
     fptr = fopen("program.txt", "w");
 
-    if(fptr == NULL) {
-        printf("Error!\n");
+    // exiting program 
+    if (fptr == NULL) {
+        printf("Error!");
         exit(1);
     }
-
-    printf("Enter text: ");
-    scanf("%s", &text);
-
-    fprintf(fptr, "%s", text);
+    printf("Enter a sentence:\n");
+    fgets(sentence, sizeof(sentence), stdin);
+    fprintf(fptr, "%s", sentence);
     fclose(fptr);
-
     return 0;
 }
 ```
