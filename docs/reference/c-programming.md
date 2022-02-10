@@ -1,10 +1,7 @@
-# Reference
-
-Here are some links to some of my most used applications and sites as well as some simple programs to help me get things done.
-
-### C Programming
-#### Hello, World!
-The famous beginners' program, which just prints Hello World and exits.
+# C Programming
+This is my page for posting code snippets from the C language.
+### Hello World
+Every programmer's first program.
 ```c
 #include <stdio.h>
 
@@ -398,9 +395,3 @@ int main(void) {
     return 0;
 }
 ```
-### Links
-- To-Do List: [https://ryanfortner.github.io/todolist/](https://ryanfortner.github.io/todolist/)
-- Invuedious: [https://ryanfortner.github.io/invuedious/](https://ryanfortner.github.io/invuedious/)
-- Pi-Apps AARCH64 nodes:
-    - Node1: [https://node1.pi-apps.io](https://node1.pi-apps.io/)
-    - Node2: [https://node2.pi-apps.io](https://node2.pi-apps.io/)
