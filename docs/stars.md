@@ -245,6 +245,8 @@
 
 ## C# # 
 
+- [jealouscloud/linerider-advanced](https://github.com/jealouscloud/linerider-advanced) - An open source spiritual successor to the flash game Line Rider 6.2
+- [Tran-Foxxo/LRTran](https://github.com/Tran-Foxxo/LRTran) - A fork of an open source spiritual successor to the flash game Line Rider 6.2
 - [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Custom Discord Rich Presence Manager for Windows, features run on startup and minimizing to tray.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
