@@ -81,6 +81,7 @@
 
 ## C 
 
+- [linuxmint/muffin](https://github.com/linuxmint/muffin) - The window management library for the Cinnamon desktop (libmuffin) and its sample WM binary (muffin)
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [PacktPublishing/Learn-C-Programming](https://github.com/PacktPublishing/Learn-C-Programming) - Learn C Programming, published by Packt
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
@@ -671,6 +672,7 @@
 
 ## JavaScript 
 
+- [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
 - [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves.
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API
@@ -1184,7 +1186,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-429-Stars](https://github.com/iBug/This-Repo-Has-429-Stars) - Yes, it's true :gift_heart: This repository has 429 stars.
+- [iBug/This-Repo-Has-429-Stars](https://github.com/iBug/This-Repo-Has-429-Stars) - Yes, it's true :yellow_heart: This repository has 429 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -1370,6 +1372,8 @@
 
 ## Shell 
 
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP configuration script | Cloudflare WARP 一键配置脚本
+- [lyderic/piutils](https://github.com/lyderic/piutils) - Utilities for Raspberry Pi (and GL-Inet) micro machines
 - [AFK-OS/una](https://github.com/AFK-OS/una) - Una (Una's Not APT) - A complete MPR helper
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
 - [pyavitz/debian-image-builder](https://github.com/pyavitz/debian-image-builder) - Debian image builder for single board computers
