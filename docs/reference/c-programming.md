@@ -1,5 +1,5 @@
 # C Programming
-This is my page for posting code snippets from the C language.
+This is my page for posting code snippets from the C language. Want to see more examples? Visit my [Learning-C repo](https://github.com/ryanfortner/Learning-C).
 ### Hello World
 Every programmer's first program.
 ```c
