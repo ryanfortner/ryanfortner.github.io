@@ -673,6 +673,7 @@
 
 ## JavaScript 
 
+- [revoxhere/duco-webservices](https://github.com/revoxhere/duco-webservices) - 🕸️ Source of Duino-Coin static Web Wallet & Web Miner
 - [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
 - [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves.
@@ -1077,6 +1078,7 @@
 
 ## Perl 
 
+- [jnweiger/showspeed](https://github.com/jnweiger/showspeed) - print I/O activity of process, files, or network.
 - [apt-mirror/apt-mirror](https://github.com/apt-mirror/apt-mirror) - Official apt-mirror source.
 - [webmin/usermin](https://github.com/webmin/usermin) - Usermin source code
 - [duckduckgo/duckduckgo](https://github.com/duckduckgo/duckduckgo) - DuckDuckGo Instant Answer Infrastructure
@@ -1656,6 +1658,7 @@
 
 ## TypeScript 
 
+- [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [Katsute/GitHub-Red-Issues](https://github.com/Katsute/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
 - [brhigginsuk/discord-activity-monitor](https://github.com/brhigginsuk/discord-activity-monitor) - Discord bot to add/remove roles based on user activity
