@@ -24,7 +24,6 @@
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
-  - [FreeBasic](#freebasic)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -505,10 +504,6 @@
 ## Emacs Lisp 
 
 - [dungeon-mode/game](https://github.com/dungeon-mode/game) - Create free (as in freedom) RPGs with GNU Emacs. And then play them.
-
-## FreeBasic 
-
-- [Amog-OS/AmogDOS](https://github.com/Amog-OS/AmogDOS) - Minimal Debian boot image for Calamares installer in AmogOS
 
 ## Go 
 
