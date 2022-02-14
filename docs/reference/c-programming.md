@@ -1,6 +1,6 @@
 # C Programming
 This is my page for posting code snippets from the C language. Want to see more examples? Visit my [Learning-C repo](https://github.com/ryanfortner/Learning-C).
-### Hello World
+#### Hello World
 Every programmer's first program.
 ```c
 #include <stdio.h>
@@ -80,6 +80,28 @@ int main(void) {
     c = b + a * a / b - a;
 
     //
+}
+```
+#### Command-Line Arguments
+An example of getting arguments from the command line.
+```c
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+    if(argc == 1) {
+        printf("no arguments given on the command-line.\n");
+        printf("usage: %s <argument1> <argument2> ... <argumentN>\n", argv[0]);
+        return 0;
+    }
+    printf("argument count: [%d]\n", argc);
+
+    for(int i = 0; i < argc; i++) {
+        if(i == 0) {
+            printf("executable = [%s]\n", argv[i]);
+        } else {
+            printf("argument %d = [%s]\n", i, argv[i]);
+        }
+    }
 }
 ```
 #### Size of Types
