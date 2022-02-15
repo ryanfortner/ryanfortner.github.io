@@ -45,6 +45,7 @@
   - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -80,6 +81,7 @@
 
 ## C 
 
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [ryanfortner/quadratic-utils](https://github.com/ryanfortner/quadratic-utils) - An easy-to-use utility for getting information on quadratics
 - [linuxmint/muffin](https://github.com/linuxmint/muffin) - The window management library for the Cinnamon desktop (libmuffin) and its sample WM binary (muffin)
@@ -231,6 +233,7 @@
 - [HaarigerHarald/omxiv](https://github.com/HaarigerHarald/omxiv) - OpenMax image viewer for the Raspberry Pi
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.
 - [alemart/opensurge](https://github.com/alemart/opensurge) - A fun 2D retro platformer inspired by Sonic games and a game creation system.
 - [ssvb/tinymembench](https://github.com/ssvb/tinymembench) - Simple benchmark for memory throughput and latency
@@ -266,6 +269,11 @@
 
 ## C++ 
 
+- [cutefishos/terminal](https://github.com/cutefishos/terminal) - A terminal emulator for Cutefish.
+- [cutefishos/dock](https://github.com/cutefishos/dock) - Desktop Taskbar.
+- [cutefishos/filemanager](https://github.com/cutefishos/filemanager) - File manager.
+- [cutefishos/core](https://github.com/cutefishos/core) - System components and backend.
+- [cutefishos/calculator](https://github.com/cutefishos/calculator) - Calculator.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [SamVanheer/halflife-updated](https://github.com/SamVanheer/halflife-updated) - Half-Life SDK updated to compile under VS2019.
@@ -389,7 +397,6 @@
 - [ttalvitie/browservice](https://github.com/ttalvitie/browservice) - Browservice: Browse the modern web on historical browsers
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [JJTech0130/MultiMC5](https://github.com/JJTech0130/MultiMC5) - Deprecated.
-- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [winegui/WineGui](https://github.com/winegui/WineGui) - Finally, a user-friendly WINE graphical interface (mirror from Gitlab)
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
@@ -909,6 +916,7 @@
 
 ## Others 
 
+- [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [techcoder20/MyRices](https://github.com/techcoder20/MyRices) - A repo for storing my rices.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -936,7 +944,7 @@
 - [ryanfortner/freecad-rpi](https://github.com/ryanfortner/freecad-rpi) - FreeCAD compiled as .deb for armhf
 - [hmsjy2017/aliyundrive-webdav-debs](https://github.com/hmsjy2017/aliyundrive-webdav-debs) - 
 - [apple/swift-community-hosted-continuous-integration](https://github.com/apple/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
-- [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf
+- [theofficialgman/meta-multimc](https://github.com/theofficialgman/meta-multimc) - Auto Updating (cross-fingers) for MultiMC Minecraft package metadata for ARM64 and ARMhf Linux. Use the master-clean branch for ARM64 and master-clean-arm32 for ARMhf. A full project description and README is in the update_auto branch
 - [hmsjy2017/debs](https://github.com/hmsjy2017/debs) - 
 - [ryanfortner/box64-debs](https://github.com/ryanfortner/box64-debs) - box64 debian/apt repository
 - [raspbian-addons/status](https://github.com/raspbian-addons/status) - raspbian-addons uptime monitoring
@@ -1045,6 +1053,7 @@
 
 ## PHP 
 
+- [soxft/UrlShorting](https://github.com/soxft/UrlShorting) - A simple but powerful URL shortener
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
@@ -1073,6 +1082,10 @@
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [PHProxy/phproxy](https://github.com/PHProxy/phproxy) - PHP based web proxy. Initially developed by whitefyre
 - [d5a/ds2pp](https://github.com/d5a/ds2pp) - 
+
+## Pascal 
+
+- [mateoconlechuga/cesium](https://github.com/mateoconlechuga/cesium) - A GUI shell for the TI-84+CE
 
 ## Perl 
 
@@ -1362,6 +1375,7 @@
 
 ## SCSS 
 
+- [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [cycool29/hacker-theme-linux](https://github.com/cycool29/hacker-theme-linux) - 
@@ -1374,6 +1388,7 @@
 
 ## Shell 
 
+- [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP configuration script | Cloudflare WARP 一键配置脚本
 - [lyderic/piutils](https://github.com/lyderic/piutils) - Utilities for Raspberry Pi (and GL-Inet) micro machines
 - [AFK-OS/una](https://github.com/AFK-OS/una) - Una (Una's Not APT) - A complete MPR helper
