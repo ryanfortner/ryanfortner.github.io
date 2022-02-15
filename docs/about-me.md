@@ -8,7 +8,7 @@ Hello, I'm Ryan, I am a Linux programmer and open-sourcerer. I like to experimen
 
 My distro of choice is Debian, but I am a huge fan of Manjaro and Arch Linux even though I'm a beginner to them!
 
-When not programming, I enjoy solving sudoku puzzles (btw check out this awesome [sudoku solver](https://github.com/RedHeadphone/sudoku-solver)!), and listening to lo-fi music. I also love the outdoors, one of my favorite things to do is watch the sun set :)
+When not programming, I enjoy solving sudoku puzzles and listening to lo-fi music. I also love the outdoors, one of my favorite things to do is watch the sun set :)
 
 My distro of choice is Debian, but I am a huge fan of Manjaro and Arch Linux even though I'm a beginner to them!
 
