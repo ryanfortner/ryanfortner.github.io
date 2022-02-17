@@ -42,6 +42,7 @@
   - [Nim](#nim)
   - [Nix](#nix)
   - [Objective-C](#objective-c)
+  - [Objective-C++](#objective-c++)
   - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
@@ -269,6 +270,7 @@
 
 ## C++ 
 
+- [cutefishos/fishui](https://github.com/cutefishos/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [cutefishos/launcher](https://github.com/cutefishos/launcher) - Application launcher.
 - [cutefishos/terminal](https://github.com/cutefishos/terminal) - A terminal emulator for Cutefish.
 - [cutefishos/dock](https://github.com/cutefishos/dock) - Desktop Taskbar.
@@ -619,7 +621,6 @@
 - [hmsjy2017/apt.raspbian-addons.org](https://github.com/hmsjy2017/apt.raspbian-addons.org) - 
 - [Pi-Apps-Coders/website](https://github.com/Pi-Apps-Coders/website) - Pi-Apps project website
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
-- [ethanaobrien/youtube-downloader](https://github.com/ethanaobrien/youtube-downloader) - Simple javascript youtube downloader, plain and easy. No ads!
 - [remarkableapp/remarkableapp.github.io](https://github.com/remarkableapp/remarkableapp.github.io) - The homepage for Remarkable - Markdown Editor
 - [ryanfortner/blog-archived](https://github.com/ryanfortner/blog-archived) - Technology & programming blog.
 - [raspbian-addons/raspbian-addons](https://github.com/raspbian-addons/raspbian-addons) - Install automatically-updated extra open-source software on your Raspberry Pi, using Debian APT
@@ -680,6 +681,8 @@
 
 ## JavaScript 
 
+- [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - Online tools for students to manage documents
+- [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
 - [mobilegmYT/Duinotize](https://github.com/mobilegmYT/Duinotize) - Ad-less website monotization, with Duino-coin
 - [OdyseeTeam/odysee-frontend](https://github.com/OdyseeTeam/odysee-frontend) - The code that runs odysee.com
 - [revoxhere/duco-webservices](https://github.com/revoxhere/duco-webservices) - 🕸️ Source of Duino-Coin static Web Wallet & Web Miner
@@ -744,6 +747,7 @@
 - [cthacker-udel/Raspberry-Pi-Scripts](https://github.com/cthacker-udel/Raspberry-Pi-Scripts) - Raspberry Pi Scripts in the following languages : Python, C++, C, Makefile, Bash Shell/Script, and Java!
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [fosscord/fosscord-client](https://github.com/fosscord/fosscord-client) - Open source, themeable and extendable discord-compatible native fosscord client
+- [ethanaobrien/youtube-downloader](https://github.com/ethanaobrien/youtube-downloader) - Simple javascript youtube downloader, plain and easy. No ads!
 - [pgamerx/yt-dislikes-viewer](https://github.com/pgamerx/yt-dislikes-viewer) - A browser extension that allows you to see dislikes on a youtube video after the youtube update
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [Griphcode/Griphitor-IDE](https://github.com/Griphcode/Griphitor-IDE) - Griphitor is a code editor made in Electron. We take time and participation working with this IDE. find out more on our website.
@@ -915,12 +919,17 @@
 - [yujitach/MenuMeters](https://github.com/yujitach/MenuMeters) - my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/
 - [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape) - Cursor Manager for OSX
 
+## Objective-C++ 
+
+- [autopear/Cydia](https://github.com/autopear/Cydia) - Cydia Installer
+
 ## OpenSCAD 
 
 - [koendv/openscad-raspberrypi](https://github.com/koendv/openscad-raspberrypi) - OpenSCAD with 3D glasses
 
 ## Others 
 
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Alternative privacy-respecting frontends for popular services 🔐🌐
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [techcoder20/MyRices](https://github.com/techcoder20/MyRices) - A repo for storing my rices.
@@ -1394,8 +1403,11 @@
 
 ## Shell 
 
+- [layquack/Twister-UI](https://github.com/layquack/Twister-UI) - Twister UI for Debian / Ubuntu aarch64
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
+- [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check domains to find out if they are bitly.com domains
 - [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
-- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
 - [lyderic/piutils](https://github.com/lyderic/piutils) - Utilities for Raspberry Pi (and GL-Inet) micro machines
 - [AFK-OS/una](https://github.com/AFK-OS/una) - Una (Una's Not APT) - A complete MPR helper
 - [vinceliuice/Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) - Colloid icon theme for linux desktops
@@ -1678,6 +1690,9 @@
 
 ## TypeScript 
 
+- [TheDavidDelta/lingva-translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like text.
+- [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [Katsute/GitHub-Red-Issues](https://github.com/Katsute/GitHub-Red-Issues) - Revert closed GitHub issues from purple back to red.
