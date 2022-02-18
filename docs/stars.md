@@ -681,6 +681,7 @@
 
 ## JavaScript 
 
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - Online tools for students to manage documents
 - [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
 - [mobilegmYT/Duinotize](https://github.com/mobilegmYT/Duinotize) - Ad-less website monotization, with Duino-coin
@@ -929,6 +930,7 @@
 
 ## Others 
 
+- [layquack/Twister-UI-Manjaro](https://github.com/layquack/Twister-UI-Manjaro) - Twister UI for aarch64 Manjaro
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Alternative privacy-respecting frontends for popular services 🔐🌐
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -1691,7 +1693,7 @@
 ## TypeScript 
 
 - [TheDavidDelta/lingva-translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like text.
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
 - [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
