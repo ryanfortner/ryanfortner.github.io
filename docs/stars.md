@@ -82,6 +82,7 @@
 
 ## C 
 
+- [h5n1xp/CuriOS](https://github.com/h5n1xp/CuriOS) - Simple GUI based Operating System - Based upon my own Microcokernel, heavily inspired by the original 1980s AmigaOS (though somewhat simpler).
 - [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [ryanfortner/quadratic-utils](https://github.com/ryanfortner/quadratic-utils) - An easy-to-use utility for getting information on quadratics
@@ -134,7 +135,7 @@
 - [neg2led/cm4io-fan](https://github.com/neg2led/cm4io-fan) - CM4 IO board PWM fan controller driver
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
 - [nakst/luigi](https://github.com/nakst/luigi) - A barebones single-header GUI library for Win32, X11 and Essence.
-- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM packages
+- [pikvm/packages](https://github.com/pikvm/packages) - Pi-KVM Packages
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [tldr-pages/tldr-c-client](https://github.com/tldr-pages/tldr-c-client) - C command-line client for tldr pages
 - [amengol/MinGL](https://github.com/amengol/MinGL) - Minimal Graphics Library
@@ -521,6 +522,7 @@
 
 ## Go 
 
+- [aliyun/ossutil](https://github.com/aliyun/ossutil) - A user friendly command line tool to access AliCloud OSS.
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [pluveto/upgit](https://github.com/pluveto/upgit) - Another Typora image uploader
@@ -930,6 +932,9 @@
 
 ## Others 
 
+- [krishenriksen/schroot-chromium-armhf](https://github.com/krishenriksen/schroot-chromium-armhf) - Buy me a Coffee https://www.paypal.me/krishenriksendk
+- [NayamAmarshe/ToucheggKDE](https://github.com/NayamAmarshe/ToucheggKDE) - TouchEgg configuration for MacOS and Windows like Touchpad Multi-Touch Gestures on KDE Plasma.
+- [ryanfortner/starship-arm](https://github.com/ryanfortner/starship-arm) - starship arm packages
 - [layquack/Twister-UI-Manjaro](https://github.com/layquack/Twister-UI-Manjaro) - Twister UI for aarch64 Manjaro
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Alternative privacy-respecting frontends for popular services 🔐🌐
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
@@ -1405,6 +1410,8 @@
 
 ## Shell 
 
+- [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
+- [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
 - [layquack/Twister-UI](https://github.com/layquack/Twister-UI) - Twister UI for Debian / Ubuntu aarch64
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check domains to find out if they are bitly.com domains
@@ -1766,6 +1773,7 @@
 
 ## Vala 
 
+- [krishenriksen/pikiss-gui](https://github.com/krishenriksen/pikiss-gui) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [calo001/fondo](https://github.com/calo001/fondo) - 📷 Wallpaper App for Linux
 - [linuxmint/slick-greeter](https://github.com/linuxmint/slick-greeter) - A slick-looking LightDM greeter
 - [louis77/tuner](https://github.com/louis77/tuner) - GNU/Linux app to discover and play internet radio stations
