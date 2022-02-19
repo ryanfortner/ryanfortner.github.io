@@ -932,6 +932,7 @@
 
 ## Others 
 
+- [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
 - [krishenriksen/schroot-chromium-armhf](https://github.com/krishenriksen/schroot-chromium-armhf) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [NayamAmarshe/ToucheggKDE](https://github.com/NayamAmarshe/ToucheggKDE) - TouchEgg configuration for MacOS and Windows like Touchpad Multi-Touch Gestures on KDE Plasma.
 - [ryanfortner/starship-arm](https://github.com/ryanfortner/starship-arm) - starship arm packages
@@ -1124,6 +1125,7 @@
 
 ## Python 
 
+- [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2) - New libcamera based python library
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
 - [vandalsoul/darkmatter-grub2-theme](https://github.com/vandalsoul/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👨‍🔬💙
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
@@ -1358,6 +1360,7 @@
 
 ## Rust 
 
+- [mustafaquraish/cup](https://github.com/mustafaquraish/cup) - simple, C-like programming language
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [dtolnay/path-to-error](https://github.com/dtolnay/path-to-error) - Find out path at which a deserialization error occurred
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
