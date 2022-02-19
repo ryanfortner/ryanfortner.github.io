@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# GitHub Stats
+# GitHub Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
 
 ![general-metrics](https://raw.githubusercontent.com/ryanfortner/ryanfortner/main/general.svg)
 
