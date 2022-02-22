@@ -297,7 +297,7 @@
 - [mhoeher/opentodolist](https://github.com/mhoeher/opentodolist) - A simple Todo and task management application - Mirror of https://gitlab.com/rpdev/opentodolist
 - [Slicer/Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 - [ccMSC/ckb](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X
-- [xmuli/chinessChess](https://github.com/xmuli/chinessChess) - Cross-platform and online battle platform game based on Qt: Chinese Chess
+- [XMuli/chinessChess](https://github.com/XMuli/chinessChess) - Cross-platform and online battle platform game based on Qt: Chinese Chess
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2) - Nixnote - A clone of Evernote for Linux
 - [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
@@ -688,6 +688,7 @@
 
 ## JavaScript 
 
+- [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - Online tools for students to manage documents
 - [specious/bitly-client](https://github.com/specious/bitly-client) - :link: Create and manage your Bitly shortlinks from the command line
@@ -1230,7 +1231,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-430-Stars](https://github.com/iBug/This-Repo-Has-430-Stars) - Yes, it's true :yellow_heart: This repository has 430 stars.
+- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :purple_heart: This repository has 431 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
