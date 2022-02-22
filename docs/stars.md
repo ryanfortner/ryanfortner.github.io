@@ -272,6 +272,8 @@
 
 ## C++ 
 
+- [endlessm/libanimation](https://github.com/endlessm/libanimation) - Wobbly windows logic split out from Compiz
+- [smspillaz/libanimation](https://github.com/smspillaz/libanimation) - Wobbly windows and animations logic split out from Compiz
 - [cutefishos/fishui](https://github.com/cutefishos/fishui) - CutefishOS GUI library, based on Qt Quick.
 - [cutefishos/launcher](https://github.com/cutefishos/launcher) - Application launcher.
 - [cutefishos/terminal](https://github.com/cutefishos/terminal) - A terminal emulator for Cutefish.
@@ -1354,6 +1356,7 @@
 
 ## Ruby 
 
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [sous-chefs/homebrew](https://github.com/sous-chefs/homebrew) - Development repository for the homebrew cookbook
 - [toptal/haste-client](https://github.com/toptal/haste-client) - CLI client for haste-server
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
@@ -1404,6 +1407,7 @@
 
 ## SCSS 
 
+- [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
@@ -1417,6 +1421,7 @@
 
 ## Shell 
 
+- [yeyushengfan258/We10X-icon-theme](https://github.com/yeyushengfan258/We10X-icon-theme) - A colorful design icon theme for linux desktops
 - [IceWhaleTech/CasaOS-AppStore](https://github.com/IceWhaleTech/CasaOS-AppStore) - 
 - [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
 - [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
@@ -1755,7 +1760,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
