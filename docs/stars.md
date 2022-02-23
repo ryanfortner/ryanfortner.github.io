@@ -938,6 +938,7 @@
 
 ## Others 
 
+- [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
 - [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
 - [krishenriksen/schroot-chromium-armhf](https://github.com/krishenriksen/schroot-chromium-armhf) - Buy me a Coffee https://www.paypal.me/krishenriksendk
@@ -1231,7 +1232,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
-- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :purple_heart: This repository has 431 stars.
+- [iBug/This-Repo-Has-431-Stars](https://github.com/iBug/This-Repo-Has-431-Stars) - Yes, it's true :two_hearts: This repository has 431 stars.
 - [Billwilliams1952/PiCameraApp](https://github.com/Billwilliams1952/PiCameraApp) - A graphical interface for programming the Raspberry Pi PiCamera. Written in Python using Tkinter.
 - [azlux/botamusique](https://github.com/azlux/botamusique) - Bot to play youtube / soundcloud / radio / local music on Mumble (using pymumble).
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
