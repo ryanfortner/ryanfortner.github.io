@@ -484,6 +484,7 @@
 
 ## Dart 
 
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - 
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
@@ -525,6 +526,8 @@
 
 ## Go 
 
+- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [titaniumnetwork-dev/aero](https://github.com/titaniumnetwork-dev/aero) - An interception-based proxy.
 - [aliyun/ossutil](https://github.com/aliyun/ossutil) - A user friendly command line tool to access AliCloud OSS.
@@ -688,6 +691,9 @@
 
 ## JavaScript 
 
+- [Griphitor/Griphitor](https://github.com/Griphitor/Griphitor) - Griphitor is a Code editor developed with ☕
+- [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
+- [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [LAX1DUDE/eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [shivshankar9/Student-portal](https://github.com/shivshankar9/Student-portal) - Online tools for students to manage documents
@@ -1133,6 +1139,7 @@
 
 ## Python 
 
+- [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
 - [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2) - New libcamera based python library
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
 - [vandalsoul/darkmatter-grub2-theme](https://github.com/vandalsoul/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👨‍🔬💙
@@ -1423,6 +1430,10 @@
 
 ## Shell 
 
+- [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
+- [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) - Icons for the Quickemu project
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [shyiko/commacd](https://github.com/shyiko/commacd) - A faster way to move around (Bash 3+/Zsh)
 - [yeyushengfan258/We10X-icon-theme](https://github.com/yeyushengfan258/We10X-icon-theme) - A colorful design icon theme for linux desktops
 - [IceWhaleTech/CasaOS-AppStore](https://github.com/IceWhaleTech/CasaOS-AppStore) - 
 - [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
