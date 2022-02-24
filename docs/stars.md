@@ -82,6 +82,7 @@
 
 ## C 
 
+- [RPi-Distro/firmware](https://github.com/RPi-Distro/firmware) - 
 - [choff/anbox-modules](https://github.com/choff/anbox-modules) - Anbox kernel modules
 - [h5n1xp/CuriOS](https://github.com/h5n1xp/CuriOS) - Simple GUI based Operating System - Based upon my own Microcokernel, heavily inspired by the original 1980s AmigaOS (though somewhat simpler).
 - [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
@@ -944,6 +945,7 @@
 
 ## Others 
 
+- [Debian/apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository, please submit pull requests there: https://salsa.debian.org/apt-team/apt
 - [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
 - [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
 - [hmsjy2017/ossutil-debs](https://github.com/hmsjy2017/ossutil-debs) - 
@@ -1361,6 +1363,7 @@
 
 ## Roff 
 
+- [RPi-Distro/chromium-browser](https://github.com/RPi-Distro/chromium-browser) - 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
@@ -1430,6 +1433,7 @@
 
 ## Shell 
 
+- [RPi-Distro/raspi-config](https://github.com/RPi-Distro/raspi-config) - Configuration tool for the Raspberry Pi
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) - Icons for the Quickemu project
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -1545,6 +1549,7 @@
 - [junaidrahim/conky-clock](https://github.com/junaidrahim/conky-clock) - Just a simple conky clock
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [GreenRaccoon23/archdroid-icon-theme](https://github.com/GreenRaccoon23/archdroid-icon-theme) - Port of Google's material design icons for Android Lollipop+ to Linux (and influenced by Ubuntu Mono, Mint-X, and Numix).
+- [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
 - [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
 - [Alvarito050506/rpi-debs](https://github.com/Alvarito050506/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
