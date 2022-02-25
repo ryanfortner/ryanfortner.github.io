@@ -82,6 +82,7 @@
 
 ## C 
 
+- [coreboot/seabios](https://github.com/coreboot/seabios) - mirror of seabios
 - [RPi-Distro/firmware](https://github.com/RPi-Distro/firmware) - 
 - [choff/anbox-modules](https://github.com/choff/anbox-modules) - Anbox kernel modules
 - [h5n1xp/CuriOS](https://github.com/h5n1xp/CuriOS) - Simple GUI based Operating System - Based upon my own Microcokernel, heavily inspired by the original 1980s AmigaOS (though somewhat simpler).
@@ -273,6 +274,7 @@
 
 ## C++ 
 
+- [libretro/citra](https://github.com/libretro/citra) - A Nintendo 3DS Emulator, running on libretro
 - [endlessm/libanimation](https://github.com/endlessm/libanimation) - Wobbly windows logic split out from Compiz
 - [smspillaz/libanimation](https://github.com/smspillaz/libanimation) - Wobbly windows and animations logic split out from Compiz
 - [cutefishos/fishui](https://github.com/cutefishos/fishui) - CutefishOS GUI library, based on Qt Quick.
@@ -692,6 +694,8 @@
 
 ## JavaScript 
 
+- [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+- [titaniumnetwork-dev/ultraviolet-web-app](https://github.com/titaniumnetwork-dev/ultraviolet-web-app) - Ultraviolet web application example for easy deployment (Node.js)
 - [Griphitor/Griphitor](https://github.com/Griphitor/Griphitor) - Griphitor is a Code editor developed with ☕
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
@@ -1141,6 +1145,8 @@
 
 ## Python 
 
+- [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
+- [goldstar611/gitless](https://github.com/goldstar611/gitless) - A maintained simple interface to git operations
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
 - [raspberrypi/picamera2](https://github.com/raspberrypi/picamera2) - New libcamera based python library
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
@@ -1433,6 +1439,9 @@
 
 ## Shell 
 
+- [Crilum/Github-Actions-App-Builds](https://github.com/Crilum/Github-Actions-App-Builds) - Automatically generates packages for arm.
+- [M0Rf30/simonpi](https://github.com/M0Rf30/simonpi) - A quick & dirty script to emulate Raspberry PI family devices on your laptop.
+- [Crilum/styleprompt](https://github.com/Crilum/styleprompt) - Create and manage bash prompts
 - [RPi-Distro/raspi-config](https://github.com/RPi-Distro/raspi-config) - Configuration tool for the Raspberry Pi
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
 - [quickemu-project/quickemu-icons](https://github.com/quickemu-project/quickemu-icons) - Icons for the Quickemu project
@@ -1549,7 +1558,6 @@
 - [junaidrahim/conky-clock](https://github.com/junaidrahim/conky-clock) - Just a simple conky clock
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [GreenRaccoon23/archdroid-icon-theme](https://github.com/GreenRaccoon23/archdroid-icon-theme) - Port of Google's material design icons for Android Lollipop+ to Linux (and influenced by Ubuntu Mono, Mint-X, and Numix).
-- [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
 - [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode and Dunst.
 - [Alvarito050506/rpi-debs](https://github.com/Alvarito050506/rpi-debs) - Debian APT repo for misc packages not yet available in Raspberry Pi OS.
