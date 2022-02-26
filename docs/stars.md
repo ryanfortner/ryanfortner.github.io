@@ -529,6 +529,7 @@
 
 ## Go 
 
+- [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
@@ -616,6 +617,7 @@
 
 ## HTML 
 
+- [cycool29/cycool29.github.io](https://github.com/cycool29/cycool29.github.io) - 
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -656,6 +658,7 @@
 
 ## Java 
 
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -694,6 +697,7 @@
 
 ## JavaScript 
 
+- [mrcrypster/notide](https://github.com/mrcrypster/notide) - Edit local code from desktop/server online with syntax highlighting and files explorer
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 - [titaniumnetwork-dev/ultraviolet-web-app](https://github.com/titaniumnetwork-dev/ultraviolet-web-app) - Ultraviolet web application example for easy deployment (Node.js)
 - [Griphitor/Griphitor](https://github.com/Griphitor/Griphitor) - Griphitor is a Code editor developed with ☕
@@ -787,7 +791,7 @@
 - [dracula/visual-studio-code](https://github.com/dracula/visual-studio-code) - 🧛🏻‍♂️ Dark theme for Visual Studio Code
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [TurboWarp/packager](https://github.com/TurboWarp/packager) - Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
@@ -949,6 +953,8 @@
 
 ## Others 
 
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
 - [Debian/apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository, please submit pull requests there: https://salsa.debian.org/apt-team/apt
 - [ZephyrLabs/Watchfaces](https://github.com/ZephyrLabs/Watchfaces) - just a bunch of watchfaces made for the pinetime.
 - [ryanfortner/codex-arm](https://github.com/ryanfortner/codex-arm) - codex arm builds
@@ -1738,6 +1744,7 @@
 
 ## TypeScript 
 
+- [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [TheDavidDelta/lingva-translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [AH-dark/UptimePage](https://github.com/AH-dark/UptimePage) - Static Page for UptimeRobot. Powered by Next.js
