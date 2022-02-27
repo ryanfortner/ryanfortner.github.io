@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+---
+
 # C Programming
 This is my page for posting code snippets from the C language. Want to see more examples? Visit my [Learning-C repo](https://github.com/ryanfortner/Learning-C).
 #### Hello World
