@@ -82,6 +82,8 @@
 
 ## C 
 
+- [ncopa/xfce-polkit](https://github.com/ncopa/xfce-polkit) - A simple PolicyKit authentication agent for XFCE
+- [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [coreboot/seabios](https://github.com/coreboot/seabios) - mirror of seabios
 - [RPi-Distro/firmware](https://github.com/RPi-Distro/firmware) - 
 - [choff/anbox-modules](https://github.com/choff/anbox-modules) - Anbox kernel modules
@@ -426,6 +428,7 @@
 
 ## CSS 
 
+- [zayronxio/windows11-GTKtheme](https://github.com/zayronxio/windows11-GTKtheme) - windows11-GTKtheme
 - [B-Software/Ward](https://github.com/B-Software/Ward) - Server dashboard
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - GTK theme for catppuccin. Warm dark theme for the masses!
 - [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
@@ -623,6 +626,8 @@
 
 ## HTML 
 
+- [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
+- [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [cycool29/cycool29.github.io](https://github.com/cycool29/cycool29.github.io) - 
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
@@ -706,6 +711,7 @@
 
 ## JavaScript 
 
+- [virae/we-stand-with-ukraine](https://github.com/virae/we-stand-with-ukraine) - Ukraine flag badge for your website
 - [mrcrypster/notide](https://github.com/mrcrypster/notide) - Edit local code from desktop/server online with syntax highlighting and files explorer
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 - [titaniumnetwork-dev/ultraviolet-node](https://github.com/titaniumnetwork-dev/ultraviolet-node) - Ultraviolet web application example for easy deployment (Node.js)
@@ -962,6 +968,7 @@
 
 ## Others 
 
+- [Botspot/scratch2](https://github.com/Botspot/scratch2) - 
 - [AmirDahan/WoR-CP-Apps](https://github.com/AmirDahan/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
 - [hmsjy2017/aliyun-cli-debs](https://github.com/hmsjy2017/aliyun-cli-debs) - 
 - [raspbian-addons/icons](https://github.com/raspbian-addons/icons) - Raspbian Addons project icons
@@ -1034,7 +1041,7 @@
 - [ryanfortner/build-deb](https://github.com/ryanfortner/build-deb) - GNU/Linux Debian package builder.
 - [ryanfortner/calculator-programs](https://github.com/ryanfortner/calculator-programs) - Various programs for Texas Instruments calculators
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - The packages Mason, what do they mean? (Package requests and bug reports here) 📑
-- [devgossips/windows-ui-tweaks](https://github.com/devgossips/windows-ui-tweaks) - 
+- [heysagnik/windows-ui-tweaks](https://github.com/heysagnik/windows-ui-tweaks) - 
 - [hmsjy2017/onedriver-arm64-builds](https://github.com/hmsjy2017/onedriver-arm64-builds) - 
 - [ZvonimirKucis/conky](https://github.com/ZvonimirKucis/conky) - Simple Conky configuration for my desktop PC
 - [cycool29/emoji-switcher-linux](https://github.com/cycool29/emoji-switcher-linux) - Easily switch emoji themes in Linux machines,
@@ -1162,6 +1169,8 @@
 
 ## Python 
 
+- [HsOjo/Dockore](https://github.com/HsOjo/Dockore) - A Web GUI manager for docker.
+- [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [goldstar611/gitless](https://github.com/goldstar611/gitless) - A maintained simple interface to git operations
 - [Gamper98/Sudoku-Solver](https://github.com/Gamper98/Sudoku-Solver) - Sudoku solver written in python
@@ -1456,6 +1465,7 @@
 
 ## Shell 
 
+- [haiwen/seafile-rpi](https://github.com/haiwen/seafile-rpi) - Seafile server package for Raspberry Pi.
 - [BernardoGiordano/signal-desktop-pi4](https://github.com/BernardoGiordano/signal-desktop-pi4) - A bash script to compile Signal Desktop for the Raspberry Pi 4 on Ubuntu 21.04.
 - [hmsjy2017/g-debs](https://github.com/hmsjy2017/g-debs) - 
 - [Crilum/Github-Actions-App-Builds](https://github.com/Crilum/Github-Actions-App-Builds) - Automatically generates packages for arm.
@@ -1758,6 +1768,7 @@
 
 ## TypeScript 
 
+- [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [TheDavidDelta/lingva-translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
