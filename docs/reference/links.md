@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+---
+
 ### Links
 - To-Do List: [https://ryanfortner.github.io/todolist/](https://ryanfortner.github.io/todolist/)
 - Invuedious: [https://ryanfortner.github.io/invuedious/](https://ryanfortner.github.io/invuedious/)
