@@ -4,7 +4,7 @@ template: overrides/main.html
 
 # About Me
 
-Hello, I'm Ryan, I am a Linux programmer and open-sourcerer. I like to experiment with several programming languages, but I mostly use bash and c. I'm also interested in arm computing, especially single-board computers like the Raspberry Pi.
+I'm Ryan, a <b id="age"></b> year old Linux programmer and open-sourcerer. I like to experiment with several programming languages, but I mostly use bash and c. I'm also interested in arm computing, especially single-board computers like the Raspberry Pi.
 
 My distro of choice is Debian, but I am also a fan of Arch Linux and derivatives such as Manjaro.
 
