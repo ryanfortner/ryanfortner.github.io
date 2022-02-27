@@ -255,6 +255,8 @@
 
 ## C# # 
 
+- [AmirDahan/WoR-ControlPanel](https://github.com/AmirDahan/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
+- [ProjectCeleste/Celeste.Launcher](https://github.com/ProjectCeleste/Celeste.Launcher) - 
 - [jealouscloud/linerider-advanced](https://github.com/jealouscloud/linerider-advanced) - An open source spiritual successor to the flash game Line Rider 6.2
 - [Tran-Foxxo/LRTran](https://github.com/Tran-Foxxo/LRTran) - A fork of an open source spiritual successor to the flash game Line Rider 6.2
 - [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Custom Discord Rich Presence Manager for Windows, features run on startup and minimizing to tray.
@@ -274,6 +276,8 @@
 
 ## C++ 
 
+- [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
+- [KDE/audiotube](https://github.com/KDE/audiotube) - Client for YouTube Music
 - [libretro/citra](https://github.com/libretro/citra) - A Nintendo 3DS Emulator, running on libretro
 - [endlessm/libanimation](https://github.com/endlessm/libanimation) - Wobbly windows logic split out from Compiz
 - [smspillaz/libanimation](https://github.com/smspillaz/libanimation) - Wobbly windows and animations logic split out from Compiz
@@ -529,6 +533,8 @@
 
 ## Go 
 
+- [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) - Alibaba Cloud CLI
+- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -658,6 +664,9 @@
 
 ## Java 
 
+- [stream-pi/util](https://github.com/stream-pi/util) - Stream-Pi Utilities Library
+- [stream-pi/server](https://github.com/stream-pi/server) - Stream-Pi Server
+- [stream-pi/client](https://github.com/stream-pi/client) - Stream-Pi Client
 - [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
@@ -699,7 +708,7 @@
 
 - [mrcrypster/notide](https://github.com/mrcrypster/notide) - Edit local code from desktop/server online with syntax highlighting and files explorer
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
-- [titaniumnetwork-dev/ultraviolet-web-app](https://github.com/titaniumnetwork-dev/ultraviolet-web-app) - Ultraviolet web application example for easy deployment (Node.js)
+- [titaniumnetwork-dev/ultraviolet-node](https://github.com/titaniumnetwork-dev/ultraviolet-node) - Ultraviolet web application example for easy deployment (Node.js)
 - [Griphitor/Griphitor](https://github.com/Griphitor/Griphitor) - Griphitor is a Code editor developed with ☕
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
@@ -953,6 +962,9 @@
 
 ## Others 
 
+- [AmirDahan/WoR-CP-Apps](https://github.com/AmirDahan/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
+- [hmsjy2017/aliyun-cli-debs](https://github.com/hmsjy2017/aliyun-cli-debs) - 
+- [raspbian-addons/icons](https://github.com/raspbian-addons/icons) - Raspbian Addons project icons
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [dahliaOS/releases](https://github.com/dahliaOS/releases) - dahliaOS ISO releases
 - [Debian/apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository, please submit pull requests there: https://salsa.debian.org/apt-team/apt
@@ -1012,7 +1024,6 @@
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [Pi-Apps-Coders/files](https://github.com/Pi-Apps-Coders/files) - 
 - [ryanfortner/hmsjy2017](https://github.com/ryanfortner/hmsjy2017) - 
-- [ryanfortner/snapdrop-rpi](https://github.com/ryanfortner/snapdrop-rpi) - A Progressive Web App for local file sharing
 - [ryanfortner/wallpapers](https://github.com/ryanfortner/wallpapers) - a huge collection of wallpapers that have accumulated overtime on my desktop
 - [ryanfortner/rpi_conky](https://github.com/ryanfortner/rpi_conky) - 
 - [ryanfortner/mirrors](https://github.com/ryanfortner/mirrors) - The AlmaLinux project mirrors configuration and tools.
@@ -1445,6 +1456,8 @@
 
 ## Shell 
 
+- [BernardoGiordano/signal-desktop-pi4](https://github.com/BernardoGiordano/signal-desktop-pi4) - A bash script to compile Signal Desktop for the Raspberry Pi 4 on Ubuntu 21.04.
+- [hmsjy2017/g-debs](https://github.com/hmsjy2017/g-debs) - 
 - [Crilum/Github-Actions-App-Builds](https://github.com/Crilum/Github-Actions-App-Builds) - Automatically generates packages for arm.
 - [M0Rf30/simonpi](https://github.com/M0Rf30/simonpi) - A quick & dirty script to emulate Raspberry PI family devices on your laptop.
 - [Crilum/styleprompt](https://github.com/Crilum/styleprompt) - Create and manage bash prompts
@@ -1544,6 +1557,7 @@
 - [Mangeshrex/rxfetch](https://github.com/Mangeshrex/rxfetch) - A custom system info fetching tool
 - [Botspot/rpi-flashplayer](https://github.com/Botspot/rpi-flashplayer) - Restore Adobe Flash Player so it can run on Raspberry Pi again
 - [ryanfortner/pi-ware](https://github.com/ryanfortner/pi-ware) - 
+- [ryanfortner/snapdrop-rpi](https://github.com/ryanfortner/snapdrop-rpi) - A Progressive Web App for local file sharing
 - [ryanfortner/au-sh](https://github.com/ryanfortner/au-sh) - autoupdate script
 - [ryanfortner/pi-apps](https://github.com/ryanfortner/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
