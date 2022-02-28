@@ -442,7 +442,6 @@
 - [EliverLara/firefox-nordic-theme](https://github.com/EliverLara/firefox-nordic-theme) - :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.
 - [oguzhaninan/Stacer-Web](https://github.com/oguzhaninan/Stacer-Web) - Stacer - Linux System Optimizer and Monitoring https://oguzhaninan.github.io/Stacer-Web
 - [arc-design/arc-theme](https://github.com/arc-design/arc-theme) - A flat theme with transparent elements
-- [Wallux-0/Wallux](https://github.com/Wallux-0/Wallux) - A collection of cool wallpapers
 - [cheeaun/hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
 - [c8hunderscore/unsafe](https://github.com/c8hunderscore/unsafe) - 
 - [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template) - Amazing website designed with Bootstrap for new Discord bots.
@@ -536,6 +535,7 @@
 
 ## Go 
 
+- [gjbae1212/kubectl-cred](https://github.com/gjbae1212/kubectl-cred) - kubectl-cred is a kubernetes plugin to which switch to contexts and namespaces and clusters using an interactive CLI.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) - Alibaba Cloud CLI
@@ -776,6 +776,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [rpardini/adoptium-deb-installer](https://github.com/rpardini/adoptium-deb-installer) - Creates Ubuntu/Debian installer packages for Eclipse Adoptium using their API. Important: these are NOT official packages. JDK 8, 11, 16 and 17, all multiarch.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
+- [Wallux-0/Wallux](https://github.com/Wallux-0/Wallux) - A collection of cool wallpapers
 - [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
 - [FogNetwork/Rusty](https://github.com/FogNetwork/Rusty) - A simple frontend design for Corrosion you can deploy
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
