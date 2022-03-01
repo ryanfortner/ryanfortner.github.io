@@ -137,7 +137,7 @@ nav:
     - Raspbian Addons: projects/raspbian-addons.md
     - Pi Apps CLI: projects/pi-apps-cli.md
   - GitHub Stats: github-stats.md
-  - Stars: stars.md
+  - Stars: 'https://ryanfortner.github.io/starred'
   - Reference: 
     - reference/index.md
     - C Programming: reference/c-programming.md
