@@ -82,6 +82,7 @@
 
 ## C 
 
+- [Strawberry-Software-Industries/ledcontrol](https://github.com/Strawberry-Software-Industries/ledcontrol) - A simple program to control the status LEDs of your Raspberry Pi!
 - [ncopa/xfce-polkit](https://github.com/ncopa/xfce-polkit) - A simple PolicyKit authentication agent for XFCE
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source
 - [coreboot/seabios](https://github.com/coreboot/seabios) - mirror of seabios
@@ -257,6 +258,7 @@
 
 ## C# # 
 
+- [Sussy-OS/LRA-Community-Edition](https://github.com/Sussy-OS/LRA-Community-Edition) - The open source, community maintained version of a spiritual successor to the flash game Line Rider 6.2
 - [AmirDahan/WoR-ControlPanel](https://github.com/AmirDahan/WoR-ControlPanel) - Windows on Raspberry Control Panel is a simple utility to make your WoR experience just a little bit easier
 - [ProjectCeleste/Celeste.Launcher](https://github.com/ProjectCeleste/Celeste.Launcher) - 
 - [jealouscloud/linerider-advanced](https://github.com/jealouscloud/linerider-advanced) - An open source spiritual successor to the flash game Line Rider 6.2
@@ -278,6 +280,7 @@
 
 ## C++ 
 
+- [gemrb/gemrb](https://github.com/gemrb/gemrb) - GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 - [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 - [KDE/audiotube](https://github.com/KDE/audiotube) - Client for YouTube Music
 - [libretro/citra](https://github.com/libretro/citra) - A Nintendo 3DS Emulator, running on libretro
@@ -628,9 +631,11 @@
 
 ## HTML 
 
+- [KumaTea/pytorch-aarch64](https://github.com/KumaTea/pytorch-aarch64) - PyTorch wheels (whl) & conda for aarch64 / ARMv8 / ARM64, with vision, audio, text & csprng
 - [revoxhere/revoxhere.github.io](https://github.com/revoxhere/revoxhere.github.io) - My portfolio
 - [revoxhere/magi-webservices](https://github.com/revoxhere/magi-webservices) - Coin Magi 2021 Explorer & Web Wallet
 - [cycool29/cycool29.github.io](https://github.com/cycool29/cycool29.github.io) - 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [linuxmint/live-installer](https://github.com/linuxmint/live-installer) - A live installer for the Debian edition
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) - Can you create something cool without modern tools?
@@ -1172,6 +1177,7 @@
 
 ## Python 
 
+- [firedm/FireDM](https://github.com/firedm/FireDM) - python open source (Internet Download Manager) with multi-connections, high speed engine, based on python, LibCurl, and youtube_dl https://github.com/firedm/FireDM
 - [HsOjo/Dockore](https://github.com/HsOjo/Dockore) - A Web GUI manager for docker.
 - [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
@@ -1414,6 +1420,7 @@
 
 ## Rust 
 
+- [messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse) - 阿里云盘 FUSE 磁盘挂载
 - [mustafaquraish/cup](https://github.com/mustafaquraish/cup) - simple, C-like programming language
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [dtolnay/path-to-error](https://github.com/dtolnay/path-to-error) - Find out path at which a deserialization error occurred
@@ -1484,7 +1491,6 @@
 - [sickcodes/anbox-halium](https://github.com/sickcodes/anbox-halium) - 
 - [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
 - [layquack/Twister-UI](https://github.com/layquack/Twister-UI) - Twister UI for Debian / Ubuntu aarch64
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for Raspberry Pi or any Linux distro for running self-hosted apps
 - [specious/check-bitly](https://github.com/specious/check-bitly) - :ok_hand: Check domains to find out if they are bitly.com domains
 - [abhiTronix/raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers) - Latest GCC Cross Compiler & Native (ARM & ARM64) CI generated precompiled standalone toolchains for all Raspberry Pis. 🍇
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
@@ -1847,6 +1853,7 @@
 
 ## Vala 
 
+- [IBBoard/cawbird](https://github.com/IBBoard/cawbird) - A fork of the Corebird GTK Twitter client that continues to work with Twitter
 - [krishenriksen/pikiss-gui](https://github.com/krishenriksen/pikiss-gui) - Buy me a Coffee https://www.paypal.me/krishenriksendk
 - [calo001/fondo](https://github.com/calo001/fondo) - 📷 Wallpaper App for Linux
 - [linuxmint/slick-greeter](https://github.com/linuxmint/slick-greeter) - A slick-looking LightDM greeter
