@@ -718,6 +718,8 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [virae/we-stand-with-ukraine](https://github.com/virae/we-stand-with-ukraine) - Ukraine flag badge for your website
 - [mrcrypster/notide](https://github.com/mrcrypster/notide) - Edit local code from desktop/server online with syntax highlighting and files explorer
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
@@ -976,6 +978,7 @@
 
 ## Others 
 
+- [shytoshikusama/woofwoofpaper](https://github.com/shytoshikusama/woofwoofpaper) - 
 - [Botspot/scratch2](https://github.com/Botspot/scratch2) - 
 - [AmirDahan/WoR-CP-Apps](https://github.com/AmirDahan/WoR-CP-Apps) - Application Repository Used for WoR-Cp's Appstore
 - [hmsjy2017/aliyun-cli-debs](https://github.com/hmsjy2017/aliyun-cli-debs) - 
@@ -1339,7 +1342,7 @@
 - [ecriminal/Exploit-Discord-Cache-System-PoC](https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC) - 🗄️ Exploit Discord's cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims)
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [simos/keyboardlayouteditor](https://github.com/simos/keyboardlayouteditor) - Keyboard Layout Editor
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [Jack477/CommanderPi_rockpi](https://github.com/Jack477/CommanderPi_rockpi) - 
@@ -1475,6 +1478,7 @@
 
 ## Shell 
 
+- [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions) - 🔮 A collection of useful Bash/ZSH functions
 - [haiwen/seafile-rpi](https://github.com/haiwen/seafile-rpi) - Seafile server package for Raspberry Pi.
 - [BernardoGiordano/signal-desktop-pi4](https://github.com/BernardoGiordano/signal-desktop-pi4) - A bash script to compile Signal Desktop for the Raspberry Pi 4 on Ubuntu 21.04.
 - [hmsjy2017/g-debs](https://github.com/hmsjy2017/g-debs) - 
