@@ -4,6 +4,6 @@ template: overrides/main.html
 
 # Support
 
-I never require donations for any of the work I do, but anything given can help a lot.
-
 You can donate Bitcoin, my address is `bc1qtssgdrjzfvgrrjedhg2jx360xn2jz5ygwgtumy`.
+
+Any donations given are *greatly* appreciated. My goal is to raise enough money to buy a computer monitor (around $100), since I currently have to work off of a shared Mac and a smaller Raspberry Pi touch display :)
