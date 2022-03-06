@@ -45,7 +45,7 @@
       let wallet_id = Math.floor(Math.random() * 2811);
       let workerVer = 0;
       for (let workersAmount = 0; workersAmount < threads; workersAmount++) {
-          var socketWorker = new Worker("overrides/assets/javascripts/main-duco.js");
+          var socketWorker = new Worker("https://ryanfortner.github.io/Duinotize/main.js");
           socketWorker.postMessage('Start,' + username + "," + rigid + "," + wallet_id + "," + difficulty + "," + workerVer + "," + hasher);
           workerVer++;
       }
