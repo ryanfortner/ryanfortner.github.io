@@ -18,7 +18,7 @@ hasher = document
     .getAttribute("hasher");
 
 if ( !username ) {
-    console.log("No mining username specified! Coins will be sent to Duinotize developer rpinews.")
+    console.log("No mining username specified! Coins will be sent to Duinotize developer chunkymilk0309.")
     let username = "chunkymilk0309";
 }
 
