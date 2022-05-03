@@ -80,6 +80,8 @@ extra:
       link: https://github.com/ryanfortner
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/ryanfortner07
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/user/ryanfortner07
 
 # Extensions
 markdown_extensions:
