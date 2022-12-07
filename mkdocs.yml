@@ -129,16 +129,7 @@ nav:
   - Home: index.md
   - About: about-me.md
   - Blog:
-    - blog/index.md
-    - 2022:
-      - Generating GitHub SSH Keys: blog/2022/2022-01-19.md
-    - 2021:
-      - Creating APT Repositories: blog/2021/2021-12-10.md
-      - Installing ExaGear on a Raspberry Pi 4: blog/2021/2021-11-19.md
-      - Raspberry Pi OS Bullseye Release: blog/2021/2021-11-08.md
-      - Raspbian Addons Repository: blog/2021/2021-11-03.md
-      - Pi-Apps RPi App Store: blog/2021/2021-11-02.md
-      - Pi News Nov 1 2021: blog/2021/2021-11-01.md
+    - blog/
   - Projects:
     - projects.md
     - Raspbian Addons: projects/raspbian-addons.md
